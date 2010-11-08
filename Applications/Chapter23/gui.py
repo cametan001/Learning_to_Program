@@ -133,23 +133,3 @@ class hmGUI(Frame, hangman.Hangman):
 
 if __name__ == "__main__":
     hmGUI().play()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
