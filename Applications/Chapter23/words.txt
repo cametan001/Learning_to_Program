@@ -4623,6 +4623,7 @@ gay
 gaze
 gear
 gee
+geek
 gem
 gender
 gene
@@ -4919,6 +4920,7 @@ habitat
 habitual
 habitually
 hack
+hacker
 hackneyed
 haggard
 hail
@@ -6295,6 +6297,7 @@ linguistic
 linguistics
 lining
 link
+linux
 lion
 lioness
 lip
@@ -6714,6 +6717,7 @@ microbe
 microphone
 microscope
 microscopic
+microsoft
 microwave
 mid
 midday
@@ -11340,6 +11344,7 @@ universal
 universally
 universe
 university
+unix
 unjust
 unkempt
 unkind
@@ -11855,6 +11860,7 @@ wind
 windfall
 windmill
 window
+windows
 windy
 wine
 wineglass
