@@ -2852,6 +2852,7 @@ delirium
 deliver
 deliverance
 delivery
+delphi
 delta
 delude
 deluge
@@ -5925,6 +5926,8 @@ janitor
 January
 jar
 jargon
+java
+javascript
 javelin
 jaw
 jay
@@ -7647,6 +7650,7 @@ partly
 partner
 partnership
 party
+pascal
 pass
 passable
 passage
@@ -7794,6 +7798,7 @@ perish
 perjury
 perk
 perky
+perl
 permanence
 permanent
 permeate
@@ -8337,6 +8342,7 @@ projector
 proliferate
 proliferation
 prolific
+prolog
 prologue
 prolong
 promenade
@@ -8499,6 +8505,7 @@ puzzle
 puzzling
 pygmy
 pyramid
+python
 quadruple
 quagmire
 quail
@@ -9855,6 +9862,7 @@ slur
 sly
 smack
 small
+smalltalk
 smart
 smash
 smear
