@@ -27,7 +27,7 @@ class hmGUIGuess(hangman.hmGuess):
 # ハングマンゲームのサブクラスでもあるので、両方を継承する
 class hmGUI(Frame, hangman.Hangman):
     def __init__(self, parent = 0):
-        self.imgpath = ''               # プログラムとは別の場所に奥場合に設定する
+        self.imgpath = ''               # プログラムとは別の場所に置く場合に設定する
         self.firstImg = self.imgpath + 'hm6.gif'
         self.letters = {}
         hangman.Hangman.__init__(self)
