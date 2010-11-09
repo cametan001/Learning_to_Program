@@ -3808,6 +3808,7 @@ eternal
 eternally
 eternity
 ethereal
+ethernet
 ethic
 ethical
 ethics
@@ -5803,6 +5804,7 @@ intermission
 intern
 internal
 international
+internet
 interpret
 interpretation
 interpreter
